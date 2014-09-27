@@ -10,12 +10,12 @@ This is a repository comprised of `git` submodules with all the Springerle molds
 ```sh
 # Add initially
 git submodule add «git-url»
-( cd «module» && git co «tag» )
+( cd «module» && git checkout «tag» )
 # → commit + push
 ```
 
 ```sh
 # Update
-( cd «module» && git fetch && git co «tag» )
+( cd «module» && git fetch && git checkout «tag» )
 # → commit + push
 ```
