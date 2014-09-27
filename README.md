@@ -2,6 +2,9 @@
 
 This is a repository comprised of `git` submodules with all the Springerle molds, for easy installation and updates.
 
+![Apache 2.0 license](http://img.shields.io/badge/license-Apache_2.0-red.svg)
+
+
 ## Adding and updating submodules
 
 ```sh
@@ -16,6 +19,3 @@ git submodule add «git-url»
 ( cd «module» && git fetch && git co «tag» )
 # → commit + push
 ```
-
-
-![Apache 2.0 license](http://img.shields.io/badge/license-Apache_2.0-red.svg)
