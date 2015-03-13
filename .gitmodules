@@ -1,3 +1,6 @@
 [submodule "dh-virtualenv-mold"]
 	path = dh-virtualenv-mold
 	url = https://github.com/Springerle/dh-virtualenv-mold.git
+[submodule "py-generic-project"]
+	path = py-generic-project
+	url = https://github.com/Springerle/py-generic-project.git
