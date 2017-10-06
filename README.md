@@ -5,6 +5,9 @@ See [springerle.github.io](http://springerle.github.io/) for more.
 
 ![Apache 2.0 license](http://img.shields.io/badge/license-Apache_2.0-red.svg)
 
+See also [PyScaffold](https://github.com/blue-yonder/pyscaffold)
+for a tool that can work with Cookiecutter and refine existing templates.
+
 
 ## Adding and updating submodules
 
